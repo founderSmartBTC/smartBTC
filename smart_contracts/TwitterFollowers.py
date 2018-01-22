@@ -2,7 +2,7 @@
 # The bellow line should be used in dependencies textbox
 # pip install requests
 
-# --------------- Actual Contract ---------------------
+# --------------- Contract Body ---------------------
 import time
 import requests
 
