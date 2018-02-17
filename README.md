@@ -1,6 +1,6 @@
 ## SmartBTC sample smart contracts
 
-This repository will showcase the functionality of smartBTC.io and will mainly contain examples of **smart contracts.**
+This repository will showcase the functionality of smartBTC.io and will mainly contain examples of **smart contracts.** For more information visit our [blog](https://medium.com/smartbtc)
  
 ## Examples of smart contracts:
 - twitter followers contract
